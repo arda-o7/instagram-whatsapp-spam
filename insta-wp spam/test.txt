@@ -1,0 +1,15 @@
+burada kod çalışıyormu diye test edebilirsiniz 
+
+test:
+Hello, How Are You
+Hello, How Are You
+Hello, How Are You
+Hello, How Are You
+Hello, How Are You
+Hello, How Are You
+Hello, How Are You
+Hello, How Are You
+Hello, How Are You
+Hello, How Are You
+
+1 saniye bekleme süresi ile yazdı
